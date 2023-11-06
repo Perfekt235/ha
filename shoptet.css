@@ -1,8 +1,5 @@
 /* První navigace na stránce, která zahrnuje phone, Jak nakupovat, obchodní podmínky */
-.top-navigation-bar {
-    display: none;
 
-}
 
 /* header zahrnuje pozadí celého navigačního panelu, který zakrnuje hlavní navigaci na stránce "Layout" */
 #header {
