@@ -1,3 +1,11 @@
-#header {
-    background-color: blue;
+/* První navigace na stránce, která zahrnuje phone, Jak nakupovat, obchodní podmínky */
+.top-navigation-bar {
+    background-color: #f0950a;
+
 }
+
+/* header zahrnuje pozadí celého navigačního panelu, který zakrnuje hlavní navigaci na stránce "Layout" */
+#header {
+    background-color: #f0950a;
+};
+
