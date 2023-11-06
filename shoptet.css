@@ -10,7 +10,7 @@
 };
 
 
-#header img {
+.site-name a img {
     height: 128px;
     position: absolute;
     bottom: 16px;
