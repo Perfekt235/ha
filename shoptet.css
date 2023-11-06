@@ -11,11 +11,11 @@
 
 
 #header .site-name a img {
-    height: 128px;
-    position: absolute;
-    bottom: 16px;
-    max-height: none;
-    max-width: none;
+    height: 128px !important;
+    position: absolute !important;
+    bottom: 16px !important;
+    max-height: none !important;
+    max-width: none !important;
 }
 
 
