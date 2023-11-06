@@ -10,10 +10,12 @@
 };
 
 
-.site-name a img {
+#header .site-name a img {
     height: 128px;
     position: absolute;
     bottom: 16px;
     max-height: none;
     max-width: none;
 }
+
+
